@@ -1,0 +1,8 @@
+{
+    "hostApiServer": "https://api-smarthome.liis.su",
+    "portApiServer": "5050",
+    "hostLoftecLoginServer": "https://api-smarthome.liis.su",
+    "portLoftecLoginServer": "5003",
+    "herokuappServer": "https://api-smarthome.liis.su",
+    "herokuappPort": "5002"
+}
